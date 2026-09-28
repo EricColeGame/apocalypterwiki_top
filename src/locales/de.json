@@ -1,1 +1,511 @@
-{}
+{
+  "site": {
+    "name": "Apocalypse Rising 2 Wiki",
+    "shortName": "Apocalypse Rising 2",
+    "tagline": "Waffen-, Karten-, Loot- und Überlebens-Guides",
+    "description": "Von Fans erstelltes Apocalypse Rising 2 Wiki mit Waffen, Karten, Loot-Orten, Fahrzeugen, Kosmetik und Überlebens-Guides für Roblox-Spieler.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "combat": "Kampf",
+    "items": "Gegenstände",
+    "maps": "Karten",
+    "mechanics": "Mechaniken",
+    "progression": "Fortschritt",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Apocalypse Rising 2 Wiki – Waffen, Karten & Guides",
+      "description": "Entdecke das Apocalypse Rising 2 Wiki mit Waffen, Karten, Überlebenstipps, Gameplay-Guides, Updates und wichtigen Infos für Roblox-Zombie-Survival-Spieler."
+    },
+    "hero": {
+      "eyebrow": "Open-World-Zombie-Survival-Shooter",
+      "title": "Apocalypse Rising 2 Wiki",
+      "description": "Apocalypse Rising 2 ist ein Open-World-Survival-Shooter auf Roblox, in dem Spieler eine Zombie-Apokalypse erkunden, Waffen sammeln, Gegner bekämpfen, Ressourcen verwalten und gegen andere Spieler überleben.",
+      "stats": [
+        "Millionen Spieler",
+        "100+ verfügbare Waffen",
+        "0 aktive Codes",
+        "Regelmäßige Updates"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Waffen-Tier-List",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Apocalypse Rising 2 Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Grundlagen des ersten Spawns auf dem Archipel: sichere Loot-Routen, Grid-Inventarlimits und wie du deine ersten Infizierten und PvP-Kämpfe überlebst."
+        },
+        {
+          "number": "2",
+          "title": "Waffen-Tier-List",
+          "description": "Vergleiche die besten Sturmgewehre, Schlachtgewehre, Scharfschützengewehre und MPs nach Time-to-Kill, Rückstoßkontrolle und Munitionsverfügbarkeit."
+        },
+        {
+          "number": "3",
+          "title": "Loot-Orte",
+          "description": "Farme die wertvollsten Spawns der Karte, von zivilen Städten und Polizeistationen bis zu Militärbasen, Hubschrauberabstürzen und Boss-Drops."
+        },
+        {
+          "number": "4",
+          "title": "Codes",
+          "description": "Prüfe den aktuellen Code-Status von Apocalypse Rising 2 und erfahre, welche Gratis-Belohnungen stattdessen aus Events, Abzeichen und saisonalen Updates kommen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Waffen-Tier-List",
+        "Loot-Orte",
+        "Fahrzeug-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du vom ersten Spawn bis zum Überleben von Feuergefechten und dem Verwalten deiner Ausrüstung brauchst.",
+          "href": "/guide/apocalypse-rising-2-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Waffen-Tier-List",
+          "description": "Jede Schusswaffe, von S-Tier-Truppauslöschern bis zu frühen zivilen Pistolen.",
+          "href": "/combat/apocalypse-rising-2-gun-tier-list"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Bestes Loadout",
+          "description": "Optimale Primär-, Sekundär- und Medizin-Ausrüstung, um ausgerüstete Trupps zu überleben.",
+          "href": "/combat/apocalypse-rising-2-best-loadout"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Loot-Orte",
+          "description": "Die wertvollsten Farm-Routen, Militärkisten und Hubschrauberabstürze.",
+          "href": "/maps/apocalypse-rising-2-loot-locations"
+        },
+        {
+          "badge": "Neu",
+          "title": "Karten-Guide",
+          "description": "Insel-für-Insel-Analyse von Loot-Stufen, Bedrohungen und sicheren Reisewegen.",
+          "href": "/maps/apocalypse-rising-2-map"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Fahrzeug-Guide",
+          "description": "Autos, LKWs und Boote mit Treibstoff-, Reparatur- und Spawn-Mechaniken.",
+          "href": "/mechanics/apocalypse-rising-2-vehicles"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Waffen",
+          "description": "Die besten Sturm- und Schlachtgewehre für Nah-, Mittel- und Fernkampf.",
+          "href": "/combat/apocalypse-rising-2-best-guns"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kosmetik-Guide",
+          "description": "Outfits, Tarnung und seltene Drops mit den besten Farm-Spots der Karte.",
+          "href": "/items/apocalypse-rising-2-cosmetics"
+        },
+        {
+          "badge": "Neu",
+          "title": "Zombie-Guide",
+          "description": "Infizierten-Typen, Aggro-Verhalten und wie du sie ohne Munitionsverschwendung beseitigst.",
+          "href": "/mechanics/apocalypse-rising-2-zombies"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Apocalypse Rising 2?",
+      "paragraphs": [
+        "Apocalypse Rising 2 ist ein Open-World-Zombie-Survival-Shooter auf Roblox vom Entwickler Dualpoint Interactive. Spieler spawnen mit nichts auf einem tropischen Archipel und sammeln Waffen, Rüstung, Rucksäcke und medizinische Vorräte, während sie gegen Infizierte und feindliche Überlebende kämpfen.",
+        "Der Fortschritt basiert auf Ausrüstung statt auf Leveln: Die Beute, die du aus zivilen Städten, Militärbasen, Hubschrauberabstürzen und Boss-Drops holst, bestimmt, wie stark du bist. Mit Grid-Inventarverwaltung, PvP-Feuergefechten, fahrbaren Autos und Booten und einer weitläufigen Inselkarte ist jeder Run ein neuer Kampf ums Überleben."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Dualpoint Interactive"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Open-World-Survival-Shooter"
+        },
+        {
+          "label": "Spieler",
+          "value": "Millionen"
+        },
+        {
+          "label": "Waffen",
+          "value": "100+"
+        },
+        {
+          "label": "Aktive Codes",
+          "value": "0"
+        },
+        {
+          "label": "Karte",
+          "value": "Archipel"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Erkunde das Apocalypse Rising 2 Wiki",
+      "description": "Meistere das Archipel von Apocalypse Rising 2 mit Überlebens-Guides, Waffen-Rankings, Loot-Routen, Fahrzeugtipps und allem, was neue Spieler zum Überleben brauchen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Apocalypse Rising 2 Einsteiger-Guide",
+          "description": "Überlebensgrundlagen ab dem ersten Spawn: sichere Loot-Prioritäten, Inventarlimits, Kampfgrundlagen und wie du gegen Infizierte und feindliche Trupps am Leben bleibst.",
+          "href": "/guide/apocalypse-rising-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Spawne auf einer Küsteninsel und schnapp dir eine Nahkampfwaffe, einen Rucksack, Essen und Wasser, bevor du ins Landesinnere ziehst."
+            },
+            {
+              "label": "2",
+              "detail": "Plündere ruhige ländliche Häuser, Garagen und Farmschuppen statt umkämpfter Militärzonen."
+            },
+            {
+              "label": "3",
+              "detail": "Verwalte das Grid-Inventar: Trage eine Primärwaffe, eine Sekundärwaffe und genügend medizinische Vorräte."
+            },
+            {
+              "label": "4",
+              "detail": "Bewege dich geduckt und sprintend durch Vegetation und meide offene Highways, die dich für Scharfschützen sichtbar machen."
+            },
+            {
+              "label": "5",
+              "detail": "Lerne das Verhalten der Infizierten und sichere immer den Perimeter, bevor du eine Leiche plünderst."
+            },
+            {
+              "label": "6",
+              "detail": "Behalte Hunger, Durst, Blutung und Temperatur im Blick, damit Überlebensschaden dich nie überrascht."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Apocalypse Rising 2 Waffen-Tier-List",
+          "description": "Jede Schusswaffe bewertet nach Time-to-Kill, Rückstoßkontrolle, Munitionsverfügbarkeit und Anpassungsflexibilität, von S-Tier-Truppauslöschern bis zu frühen zivilen Waffen.",
+          "href": "/combat/apocalypse-rising-2-gun-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "FAL 50.00, HK21, L96A1 und Patriot dominieren mit der schnellsten Time-to-Kill und Kontrolle auf lange Distanz."
+            },
+            {
+              "label": "A",
+              "detail": "AKM, M16A1, AUG A1, M14 und PSG-1 sind zuverlässige Primärwaffen mit leicht zu findender Munition."
+            },
+            {
+              "label": "B",
+              "detail": "Robuste Plünderergewehre mit gängigen Kalibern und berechenbarem Handling."
+            },
+            {
+              "label": "C",
+              "detail": "Zivile Pistolen und Jagdgewehre sind früh brauchbar, werden aber schnell überholt."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Apocalypse Rising 2 Loot-Orte",
+          "description": "Ein Farm-Routen-Guide zu zivilen Wohnhäusern, Polizeistationen, Militärbasen, Hubschrauberabstürzen und Boss-Drops auf dem gesamten Archipel.",
+          "href": "/maps/apocalypse-rising-2-loot-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Halsey",
+              "detail": "Die Naval Air Station Halsey spawnt Militärkisten mit FAL, G3, M16A2 und M60."
+            },
+            {
+              "label": "Flughafen",
+              "detail": "Die Hangars und der Kontrollturm des Regional Airport enthalten AKM, MP5 und 5,56-mm-Munition."
+            },
+            {
+              "label": "Mackinaw",
+              "detail": "Die Tunnel und das Waffenlager von Fortress Mackinaw liefern M1 Garand, BAR und Trench Gun."
+            },
+            {
+              "label": "Abstürze",
+              "detail": "Hubschrauberabstürze und sowjetische Schiffswracks lassen seltene Waffen und Kosmetik fallen."
+            },
+            {
+              "label": "Zivil",
+              "detail": "Motele, Häuser und Supermärkte liefern Verbände, Essen und Startergewehre."
+            },
+            {
+              "label": "Polizei",
+              "detail": "Polizeistationen, Feuerwachen und Banksafes enthalten MP5K, Schrotflinten und Westen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Apocalypse Rising 2 Codes",
+          "description": "Prüfe den aktuellen Code-Status von Apocalypse Rising 2, wie Belohnungscodes funktionieren und woher Gratis-Belohnungen 2026 wirklich kommen.",
+          "href": "/progression",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "0 aktiv",
+              "detail": "Apocalypse Rising 2 betreibt derzeit kein einlösbares Codesystem."
+            },
+            {
+              "label": "Belohnungen",
+              "detail": "Gratis-Belohnungen kommen stattdessen aus Events, Abzeichen und saisonalen Updates."
+            },
+            {
+              "label": "Sicherheit",
+              "detail": "Ignoriere jede Website oder jedes Video, das Gratis-Kosmetikcodes für das Spiel verspricht; das sind Betrugsmaschen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Apocalypse Rising 2 Fahrzeug-Guide",
+          "description": "Fahrzeugklassen, Spawn-Orte, Treibstoff- und Reparaturmechaniken und wie du Autos, LKWs und Boote nutzt, um das Archipel sicher zu durchqueren.",
+          "href": "/mechanics/apocalypse-rising-2-vehicles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Limousinen",
+              "detail": "Schnell auf asphaltierten Highways, aber abseits der Straße zerbrechlich und leichte Ziele für Gewehrfeuer."
+            },
+            {
+              "label": "SUVs",
+              "detail": "Jeeps und 4x4 bleiben auf rauem Gelände stabil und umfahren Straßensperren."
+            },
+            {
+              "label": "LKWs",
+              "detail": "Pickups, Vans und Pritschenwagen transportieren Trupp-Beute und dienen als rollende Deckung."
+            },
+            {
+              "label": "Militär",
+              "detail": "Gepanzerte LKWs und Humvees bieten extrem hohe Haltbarkeit für Endgame-Runs."
+            },
+            {
+              "label": "Boote",
+              "detail": "Motorboote und Jetskis überqueren umkämpfte Wasserwege und erreichen abgelegene Inseln."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Apocalypse Rising 2 Karten-Guide",
+          "description": "Ein Insel-für-Insel-Überblick über das Archipel mit Loot-Stufen, Bedrohungsleveln, Wahrzeichen und sicheren Reisewegen.",
+          "href": "/maps/apocalypse-rising-2-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ashland",
+              "detail": "Zentrales städtisches Zentrum mit dem Regional Airport, Universitäten und sehr hoher PvP-Bedrohung."
+            },
+            {
+              "label": "Beaufort",
+              "detail": "Marinestützpunkt und Küstenbatterien mit der besten hochwertigen Militärbeute."
+            },
+            {
+              "label": "Huron",
+              "detail": "Waldstädte und Holzfällerlager mit ziviler Ausrüstung und Jagdgewehren."
+            },
+            {
+              "label": "Mackinaw",
+              "detail": "Medizin- und Proviant-Spawns mit ruhigeren Loot-Routen und wenig Verkehr."
+            },
+            {
+              "label": "Halsey",
+              "detail": "Flugfeld und Militärlager voller NATO-Ausrüstung und Anbauteile."
+            },
+            {
+              "label": "Atolle",
+              "detail": "Abgelegene Forschungsaußenposten und Schiffswracks mit seltener Spezialbeute."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Apocalypse Rising 2 Kosmetik-Guide",
+          "description": "Outfits, Tarnung, Kopfbedeckungen und seltene Drops, plus wo du zivile und militärische Kosmetik auf der Karte farmst.",
+          "href": "/items/apocalypse-rising-2-cosmetics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tarnung",
+              "detail": "Militäruniformen und Ghillie-Teile brechen deine Silhouette gegen das Gelände auf."
+            },
+            {
+              "label": "Hüte",
+              "detail": "Helme und Kappen verändern deine Silhouette, was dich in Fenstern verraten kann."
+            },
+            {
+              "label": "Masken",
+              "detail": "Dunkle Gesichtsbedeckung versteckt blasse Avatare und passt gut zu Nachteinsätzen."
+            },
+            {
+              "label": "Zivil",
+              "detail": "Häuser, Motele und Waschsalons lassen Freizeithemden und Arbeitsanzüge fallen."
+            },
+            {
+              "label": "Militär",
+              "detail": "Die Naval Base Halsey und der Flughafen beherbergen die seltenste taktische Kosmetik."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Apocalypse Rising 2 Updates",
+          "description": "Ein Tracker für wichtige Patches, Kartenüberarbeitungen, neue Orte von Interesse und Balance-Änderungen des Dualpoint-Interactive-Teams.",
+          "href": "/progression/apocalypse-rising-2-update",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Karte",
+              "detail": "Die Beta-Erweiterung fügte über 20 neue Orte und 18 überarbeitete Points of Interest hinzu."
+            },
+            {
+              "label": "Orte",
+              "detail": "Regionale Zentren, Industriegebiete und abgelegene Inseln verbinden Early und Late Game."
+            },
+            {
+              "label": "Ausrüstung",
+              "detail": "Der Fortschritt basiert auf Ausrüstung, von 9-mm-Pistolen bis zu NATO-Schlachtgewehren."
+            },
+            {
+              "label": "Balance",
+              "detail": "Waffen- und Zombie-Änderungen kommen über stille Patches, die die Community verfolgt."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Apocalypse Rising 2.",
+      "items": [
+        {
+          "question": "Was ist Apocalypse Rising 2?",
+          "answer": "Apocalypse Rising 2 ist ein Open-World-Zombie-Survival-Shooter auf Roblox, entwickelt von Dualpoint Interactive. Du spawnst auf einem tropischen Archipel, plünderst Waffen und Vorräte, kämpfst gegen Infizierte und feindliche Spieler und versuchst, mit allem zu überleben, was du trägst."
+        },
+        {
+          "question": "Ist Apocalypse Rising 2 kostenlos?",
+          "answer": "Ja. Apocalypse Rising 2 ist auf Roblox kostenlos spielbar, und du brauchst nur ein Roblox-Konto, um einem Server beizutreten."
+        },
+        {
+          "question": "Hat Apocalypse Rising 2 Codes?",
+          "answer": "Apocalypse Rising 2 nutzt derzeit kein einlösbares Codesystem. Gratis-Belohnungen kommen aus Events, Abzeichen und saisonalen Updates, also ignoriere jede Seite, die Gratis-Kosmetikcodes verspricht."
+        },
+        {
+          "question": "Was sind die besten Waffen in Apocalypse Rising 2?",
+          "answer": "7,62x51-mm-NATO-Schlachtgewehre wie FAL, G3 und M14 dominieren dank schneller Time-to-Kill, während M16A1 und AKM nachsichtigere Primärwaffen der Mittelklasse sind."
+        },
+        {
+          "question": "Wie kommt man in Apocalypse Rising 2 voran?",
+          "answer": "Es gibt keinen Account-Level-Baum; der Fortschritt in Apocalypse Rising 2 basiert auf Ausrüstung. Du wirst stärker, indem du Militärzonen, Hubschrauberabstürze und Boss-Drops nach besseren Waffen, Rüstung und Rucksäcken plünderst."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Apocalypse Rising 2 verfügbar?",
+          "answer": "Apocalypse Rising 2 wird über Roblox auf PC, Mobilgeräten und Konsole gespielt, sodass Server und Fortschritt geräteübergreifend geteilt werden."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Apocalypse Rising 2 zu meistern?",
+      "description": "Von deinen ersten Schritten als Überlebender bis zu späten Loot-Runs deckt dich unser Community-Wiki mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Apocalypse Rising 2 Guide",
+    "overviewDescription": "Einsteiger-Walkthroughs, Loot-Routen, Tipps und Tricks, um deine ersten Stunden in Apocalypse Rising 2 auf Roblox zu überleben."
+  },
+  "combat": {
+    "overviewTitle": "Apocalypse Rising 2 Kampf & Waffen",
+    "overviewDescription": "Waffen-Tier-Listen, beste Waffen, Scharfschützengewehre, Nahkampfwaffen und Loadout-Tipps, um Feuergefechte in Apocalypse Rising 2 zu gewinnen."
+  },
+  "items": {
+    "overviewTitle": "Apocalypse Rising 2 Gegenstände & Ausrüstung",
+    "overviewDescription": "Waffen, Rüstung, Rucksäcke, Anbauteile und Kosmetik – wo du jeden Gegenstand findest und wie du ihn in Apocalypse Rising 2 einsetzt."
+  },
+  "maps": {
+    "overviewTitle": "Apocalypse Rising 2 Karten & Orte",
+    "overviewDescription": "Inselkarten, Loot-Orte, geheime Spots und Hubschrauberabsturzstellen im gesamten Archipel von Apocalypse Rising 2."
+  },
+  "mechanics": {
+    "overviewTitle": "Apocalypse Rising 2 Spielmechaniken",
+    "overviewDescription": "Fahrzeuge, Zombies, Basisbau, Loot-Respawn und Fundorte von Anbauteilen – die Kernsysteme, die dich in Apocalypse Rising 2 am Leben halten."
+  },
+  "progression": {
+    "overviewTitle": "Apocalypse Rising 2 Fortschritt & Updates",
+    "overviewDescription": "Updates, Events, Keycards und geheime oder Überlebenden-Abzeichen, die deinen langfristigen Fortschritt in Apocalypse Rising 2 dokumentieren."
+  },
+  "community": {
+    "overviewTitle": "Apocalypse Rising 2 Community",
+    "overviewDescription": "Reddit-Threads, Discord-Server, Trailer und Gameplay-Videos aus der Apocalypse Rising 2 Community."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Apocalypse Rising 2 Wiki",
+    "about": "Das Apocalypse Rising 2 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Waffen, Karten, Loot-Orten, Fahrzeugen und Überlebenstipps für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Apocalypse Rising 2 Wiki. Nicht mit Dualpoint Interactive oder Roblox verbunden.",
+    "description": "Open-World-Zombie-Survival-Shooter auf Roblox. 100+ Waffen, Loot-Routen, Fahrzeuge und Überlebens-Guides.",
+    "playGame": "Apocalypse Rising 2 spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Roblox-Spielseite",
+    "beginnerGuide": "Einsteiger-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "weaponGuides": "Waffen-Guides",
+    "lootGuides": "Loot-Guides",
+    "vehicleGuides": "Fahrzeug-Guides"
+  }
+}
