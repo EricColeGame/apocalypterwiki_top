@@ -6,7 +6,18 @@
     "description": "Fan-made Apocalypse Rising 2 wiki with weapons, maps, loot locations, vehicles, cosmetics and survival guides for Roblox players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "combat": "Combat",
+    "items": "Items",
+    "maps": "Maps",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Apocalypse Rising 2 Wiki - Weapons, Maps & Guides",
@@ -433,7 +444,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Apocalypse Rising 2 Guide",
+    "overviewDescription": "Beginner walkthroughs, looting routes, tips and tricks for surviving your first hours in Apocalypse Rising 2 on Roblox."
+  },
+  "combat": {
+    "overviewTitle": "Apocalypse Rising 2 Combat & Weapons",
+    "overviewDescription": "Weapon tier lists, best guns, snipers, melee weapons and loadout advice for winning firefights in Apocalypse Rising 2."
+  },
+  "items": {
+    "overviewTitle": "Apocalypse Rising 2 Items & Gear",
+    "overviewDescription": "Weapons, armor, backpacks, attachments and cosmetics — where to find every item and how to use it in Apocalypse Rising 2."
+  },
+  "maps": {
+    "overviewTitle": "Apocalypse Rising 2 Maps & Locations",
+    "overviewDescription": "Island maps, loot locations, secret spots and helicopter crash sites across the Apocalypse Rising 2 archipelago."
+  },
+  "mechanics": {
+    "overviewTitle": "Apocalypse Rising 2 Game Mechanics",
+    "overviewDescription": "Vehicles, zombies, base building, loot respawn and attachment locations — the core systems that keep you alive in Apocalypse Rising 2."
+  },
+  "progression": {
+    "overviewTitle": "Apocalypse Rising 2 Progression & Updates",
+    "overviewDescription": "Updates, events, keycards and secret or survivor badges that track your long-term progress in Apocalypse Rising 2."
+  },
+  "community": {
+    "overviewTitle": "Apocalypse Rising 2 Community",
+    "overviewDescription": "Reddit threads, Discord servers, trailers and gameplay videos from the Apocalypse Rising 2 community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -464,10 +502,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Roblox Game Page",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "weaponGuides": "Weapon Guides",
+    "lootGuides": "Loot Guides",
+    "vehicleGuides": "Vehicle Guides"
   }
 }
